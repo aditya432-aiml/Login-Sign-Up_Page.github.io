@@ -1,0 +1,25 @@
+@media screen and (max-width:400px) {
+    nav ul{
+        height: 130px;
+        flex-direction: column;
+        text-align: center;
+    } 
+    .head{
+        font-size: 25px;
+    }
+    .label input{
+        text-align: center;
+        margin-left: 2px;
+        font-size: 10px;
+        font-weight: bold;
+    }
+    #label{
+        font-size: 13px;
+    }
+    #label1{
+        padding-right: -370px;
+        margin-top: -10px;
+        margin-left: -102px; 
+        max-width: 270%;
+    }
+}
