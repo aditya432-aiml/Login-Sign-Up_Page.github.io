@@ -1,1 +1,1 @@
-alert('Welcome To Login Page !!');
+alert('Welcome To Login/Sign Up Page !!');
